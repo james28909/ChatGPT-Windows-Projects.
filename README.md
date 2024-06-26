@@ -8,4 +8,4 @@ test - is a script that was just a test to see if i could get ChatGPT to do this
 
 i think imotb is an actual gui application that hides its window (isnt used anyway) which allows you to add it to startup programs directory. it also has a icon in systray that allows you to exit if right clicked.
 
-if anyone has any extra ideas that is missing in windows, lets compile a good list here!
+if anyone has any extra ideas for new functionality that is missing in windows, let me know and lets compile a good list here!
